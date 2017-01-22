@@ -1,7 +1,10 @@
 .shows {
-  width: 40%;
+  width: auto;
   color: #ffffff;
   background-color: #8c190c;
   font-family: cursive;
-  float: right;
+}
+
+img {
+  float: left;
 }
